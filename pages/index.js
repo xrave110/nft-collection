@@ -1,3 +1,5 @@
+//Deployed at https://nft-collection-taupe-five.vercel.app/
+
 import { Contract, providers, utils } from "ethers";
 import Head from "next/head";
 import React, { useEffect, useRef, useState } from "react";
